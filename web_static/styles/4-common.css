@@ -1,0 +1,18 @@
+body {
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#logo{
+    height: 60px;
+    width: 142px;
+    background-image: url(../images/logo.png);
+}
